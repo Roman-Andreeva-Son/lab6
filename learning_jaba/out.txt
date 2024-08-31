@@ -1,0 +1,2 @@
+это должно оказаться в output файле
+окей? C:\Users\user\Desktop\in.txt
